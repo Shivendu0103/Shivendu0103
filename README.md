@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on **[Hushh - A social networking site](https://try-hushh.vercel.app/)**
 - 🌱 I’m currently learning **Flutter**
-- 👨‍💻 All of my projects are available at **[shivendu0103.vercel.app](https://shivendu0103.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[shivendu0103.vercel.app](https://shivendusinha.vercel.app/)**
 - 📫 How to reach me → **shivendu0103@gmail.com**
 
 ---
